@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://talentvale.com/</loc>
+	<lastmod>2022-06-01T18:30:34+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://talentvale.com/signup.php</loc>
+	<lastmod>2022-06-01T18:30:34+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://talentvale.com/restore.php</loc>
+	<lastmod>2022-06-01T18:30:34+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://talentvale.com/login.php</loc>
+	<lastmod>2022-06-01T18:30:35+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
